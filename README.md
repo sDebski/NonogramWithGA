@@ -1,0 +1,1 @@
+This is program in python that solves Nonogram. It has few Nonograms available and few possibilities how to solve it. It provides two Fitness functions and one Brute Force method.
